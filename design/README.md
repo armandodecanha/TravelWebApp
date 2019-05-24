@@ -17,7 +17,7 @@ The left side-bar is a Ranking table for promote the user interactions on the so
 
 ### Main Page _(with login)_
 
-<img src="https://github.com/fullstacktf/TravelWebApp/tree/develop/design/img/UserMainPage.jpg"width="100px" height="100px"/>
+<img src="https://github.com/fullstacktf/TravelWebApp/tree/develop/design/img/UserMainPage.jpg" width="100px" height="100px"/>
 
 The right sidebar helps user for instant actions like _share a moment_, _create item_ or _search itinerary_ for example. The news bar is move to the main navigation bar and change with the news with the localization of logged user.
 
