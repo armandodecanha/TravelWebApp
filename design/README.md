@@ -2,7 +2,7 @@
 
 ## Content
 
-- PDF of all Pages LA LA LA
+- PDF of all Pages
 - Preview images of each Page
 
 ## Description
