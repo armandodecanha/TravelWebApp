@@ -1,3 +1,3 @@
 # TravelWebApp
-This is the master branch, for now all work are on develop brach
+LALALALA
 [Switch to view](https://github.com/fullstacktf/TravelWebApp/tree/develop)
